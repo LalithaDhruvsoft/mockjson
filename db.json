@@ -1,0 +1,24 @@
+{
+  "Fruits": [
+    {
+      "name": "Apple",
+      "AccountNumber": 5678001
+    },
+    {
+      "name": "Jackfruit",
+      "AccountNumber": 5678002
+    },
+    {
+      "name": "Grapes",
+      "AccountNumber": 5678003
+    },
+    {
+      "name": "muskmelon",
+      "AccountNumber": 5678004
+    },
+    {
+      "name": "Berry.",
+      "AccountNumber": 5678005
+    }
+  ]
+}
